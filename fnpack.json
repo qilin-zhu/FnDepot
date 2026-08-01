@@ -24,5 +24,31 @@
         "download_url": "https://github.com/qilin-zhu/LitePan-fpk/releases/download/v0.4.5-fpk-20/LitePan_arm_0.4.5.fpk"
       }
     }
+  },
+  "fndepot.source": {
+    "display_name": "FnDepot应用源",
+    "desc": "自动拉取GitHub上符合FnDepot商店规范的应用源、加速地址，并注入FnDepot商店",
+    "labels": "实用效率",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "version": "0.0.3",
+    "author": "BoB",
+    "author_url": "https://github.com/710850609",
+    "bug_report_url": "https://github.com/710850609/FnDepot/issues",
+    "install_type": "存储空间",
+    "history": {},
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/710850609/FnDepot/releases/download/20260708-2/fndepot.source-x86_64-0.0.3.fpk",
+        "size": "0.3"
+      },
+      "arm": {
+        "download_url": "https://github.com/710850609/FnDepot/releases/download/20260708-2/fndepot.source-aarch64-0.0.3.fpk",
+        "size": "0.3"
+      }
+    },
+    "changelog": ""
   }
 }
