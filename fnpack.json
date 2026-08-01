@@ -25,8 +25,8 @@
       }
     }
   },
-  "LitePan": {
-    "display_name": "LitePan",
+  "LitePan3": {
+    "display_name": "LitePan3",
     "desc": "自动拉取GitHub上符合FnDepot商店规范的应用源、加速地址，并注入FnDepot商店",
     "labels": "实用效率",
     "platform": [
