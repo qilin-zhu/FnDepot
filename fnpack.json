@@ -1,7 +1,7 @@
 {
-  "LitePan": {
-    "display_name": "LitePan",
-    "desc": "LitePan是一个专注影音功能的网盘聚合工具，主要功能包括：聚合挂载、STRM刮削、目录整理、缓存管理与自动联动等，让网盘资源更顺畅地进入你的媒体库。默认账号密码admin",
+  "LitePan2": {
+    "display_name": "LitePan2",
+    "desc": "LitePan是一个专注影音功能的网盘聚合工具，主要功能包括：聚合挂载、STRM刮削、目录整理、缓存管理与自动联动等，让网盘资源更顺畅地进入你的媒体库，默认账号密码admin",
     "labels": "实用效率,备份同步",
     "platform": [
       "x86",
@@ -25,8 +25,8 @@
       }
     }
   },
-  "fndepot.source": {
-    "display_name": "FnDepot应用源",
+  "LitePan": {
+    "display_name": "LitePan",
     "desc": "自动拉取GitHub上符合FnDepot商店规范的应用源、加速地址，并注入FnDepot商店",
     "labels": "实用效率",
     "platform": [
